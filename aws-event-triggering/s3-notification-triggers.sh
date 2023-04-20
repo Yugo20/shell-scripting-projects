@@ -1,5 +1,11 @@
 #!/bin/bash
 
+#### Author: Yugo
+# Date: April 19th, 2023
+# Version: 1
+# Detail: S3 Event Triggering
+####
+
 set -x
 
 # Store the AWS account ID in a variable
